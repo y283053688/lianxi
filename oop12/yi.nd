@@ -1,0 +1,3 @@
+#写在开头的话
+class Student():
+    pass
